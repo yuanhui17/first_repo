@@ -15,6 +15,5 @@ System.out.println("hello");
 
 ----
 
-*hi*
 
 
